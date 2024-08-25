@@ -6,6 +6,5 @@ proc reverse {str} {
     return [join $reversedWords " "]
 }
 
-# اختبار الإجراء
 puts [reverse "TCL is a Tool Command Language"]
 puts [reverse "Welcome to you"]
