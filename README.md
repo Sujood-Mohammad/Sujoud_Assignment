@@ -6,7 +6,7 @@
 - **Git**: For version control.
 
 ## Video Demonstration
-- [Watch the video demonstration of the project setup and usage](https://drive.google.com/file/d/1viTWv8pjPFR3S6avRq2NzmQzEH5yCTqc/view?usp=sharing).
+- [Watch the video demonstration of the project setup and usage](https://screenrec.com/share/1QHwF5Slhn).
 
 ## Prerequisites
 1. **XAMPP**: Install XAMPP with PHP version 8.2.0.
